@@ -1,0 +1,8 @@
+import("doParallel")
+import("ggplot2")
+
+export("Hobotnica")
+export("GenerateRandomSignatures")
+export("GenerateDistributionByPermutations")
+export("LengthPlotter")
+export("MDSPlotter")
